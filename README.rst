@@ -1,6 +1,10 @@
 Tribus
 ======
 
+.. image:: https://badges.gitter.im/TribusGNULinux/tribus.svg
+   :alt: Join the chat at https://gitter.im/TribusGNULinux/tribus
+   :target: https://gitter.im/TribusGNULinux/tribus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://img.shields.io/pypi/v/Tribus.png
    :target: https://pypi.python.org/pypi/Tribus/
    :alt: Latest version available in PyPi
